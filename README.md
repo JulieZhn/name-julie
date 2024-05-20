@@ -11,7 +11,7 @@ From data analysis, here are **my findings**:
 [U.S. Social Security Administration](https://www.ssa.gov/oact/babynames/decades/names1950s.html)
 
 **Data Analysis**:
-I created several tabels with the columns I want from the big datasets, and used Pandas to read the CSV files. Then I used ggplot to create basic charts and visualizations, save them into pdf, and edit the charts in Adobe Illustrator. Employing the technique of ai2html, I made these charts responsive to the size of screen and inserted them into HTML.
+I created several tabels with the columns I want from the big datasets, and used **Pandas** to read the CSV files. Then I used **ggplot** to create basic charts and visualizations, save them into pdf, and edit the charts in **Adobe Illustrator**. Employing the technique of **ai2html**, I made these charts responsive to the size of screen and inserted them into HTML.
 
 **New Learnings**:
 I exercised my skills of using ggplot and editing charts in AI, and first time tried ai2html.
